@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\bin\Debug\net6.0\weekDay.exe
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\bin\Debug\net6.0\weekDay.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\bin\Debug\net6.0\weekDay.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\bin\Debug\net6.0\weekDay.dll
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\bin\Debug\net6.0\weekDay.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\weekDay.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\weekDay.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\weekDay.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\weekDay.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\weekDay.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\weekDay.dll
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\refint\weekDay.dll
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\weekDay.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\weekDay.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\weekDay\obj\Debug\net6.0\ref\weekDay.dll
