@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\bin\Debug\net6.0\secondDigit.exe
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\bin\Debug\net6.0\secondDigit.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\bin\Debug\net6.0\secondDigit.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\bin\Debug\net6.0\secondDigit.dll
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\bin\Debug\net6.0\secondDigit.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\secondDigit.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\secondDigit.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\secondDigit.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\secondDigit.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\secondDigit.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\secondDigit.dll
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\refint\secondDigit.dll
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\secondDigit.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\secondDigit.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\secondDigit\obj\Debug\net6.0\ref\secondDigit.dll
