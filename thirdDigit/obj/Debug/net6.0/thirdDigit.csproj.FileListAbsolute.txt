@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\bin\Debug\net6.0\thirdDigit.exe
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\bin\Debug\net6.0\thirdDigit.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\bin\Debug\net6.0\thirdDigit.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\bin\Debug\net6.0\thirdDigit.dll
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\bin\Debug\net6.0\thirdDigit.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\thirdDigit.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\thirdDigit.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\thirdDigit.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\thirdDigit.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\thirdDigit.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\thirdDigit.dll
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\refint\thirdDigit.dll
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\thirdDigit.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\thirdDigit.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson2\thirdDigit\obj\Debug\net6.0\ref\thirdDigit.dll
